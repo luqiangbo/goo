@@ -1,4 +1,4 @@
-package goo
+package main
 
 import "fmt"
 
